@@ -40,12 +40,8 @@ GEM
       tzinfo (~> 1.1)
     ansi (1.5.0)
     arel (8.0.0)
-<<<<<<< HEAD
-    bcrypt (3.1.12)
-=======
     autoprefixer-rails (9.8.6.2)
       execjs
->>>>>>> filling-in-layout
     bindex (0.8.1)
     bootstrap-sass (3.3.7)
       autoprefixer-rails (>= 5.2.1)
@@ -211,11 +207,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-<<<<<<< HEAD
-  bcrypt (= 3.1.12)
-=======
   bootstrap-sass (= 3.3.7)
->>>>>>> filling-in-layout
   byebug (= 9.0.6)
   coffee-rails (= 4.2.2)
   guard (= 2.16.2)
